@@ -1,0 +1,2 @@
+# JAVA
+Factory pattern
